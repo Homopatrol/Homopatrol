@@ -1,16 +1,15 @@
-###
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default)
-
-![Dev.to](https://github-readme-stats.vercel.app/api?username=Homopatrol&show_icons=true&theme=tokyonight)
-
-
+### Welcome to my Github... are you lost?
 
 - 🔭 I’m currently working on my BSc in Cyber Security 
 - 🌱 I’m currently learning about Openshift and Helm charts
 - 👯 I’m looking to collaborate on Security releated projects
 - 😄 Pronouns: any
 - ⚡ Fun fact: I play the Organ and enjoy Strength training
+
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default)
+
+![Dev.to](https://github-readme-stats.vercel.app/api?username=Homopatrol&show_icons=true&theme=tokyonight)
 
 <!--
 **Homopatrol/Homopatrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
