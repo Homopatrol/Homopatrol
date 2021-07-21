@@ -7,11 +7,11 @@
 <a href="http://linkedin.com/in/pandora-holladay-b01a241a9"><img src="https://img.shields.io/badge/-Homopatrol-00008b?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/dmu.gif" width="30px"> I’m currently working towards a **BSc** in Cyber Security 
-- 🌱 I’m currently using Openshift and Helm charts
-- 👯 I’m looking to collaborate on Security releated projects
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/cloud.gif" width="30px"> I’m currently using Openshift and Helm charts
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/1010.gif" width="30px"> I’m looking to collaborate on Security releated projects
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/flag.gif" width="30px"> Pronouns: any
 - :notes: When I'm not computer I'm play a different keyboard on my Organ 
-- :muscle: I also enjoy competing in Strength sports 
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/weightlifter-cute.gif" width="30px"> I also enjoy competing in Strength sports 
                                         
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default) -->
                                                
