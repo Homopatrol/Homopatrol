@@ -6,14 +6,14 @@
 <a href="https://www.instagram.com/Homopatrol"><img src="https://img.shields.io/badge/-Homopatrol-00008b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="http://linkedin.com/in/pandora-holladay-b01a241a9"><img src="https://img.shields.io/badge/-Homopatrol-00008b?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-- 🔭 I’m currently working on my BSc in Cyber Security 
-- 🌱 I’m currently learning about Openshift and Helm charts
+- 🔭 I’m currently working towards a **BSc** in Cyber Security 
+- 🌱 I’m currently using Openshift and Helm charts
 - 👯 I’m looking to collaborate on Security releated projects
 - 😄 Pronouns: any
-- ⚡ Fun fact: I play the Organ and enjoy Strength training 
-
+- :notes: When I'm not computer I'm play a different keyboard on my Organ 
+- :muscle: I also enjoy competing in Strength sports 
                                         
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default)
+<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default) -->
                                                
 ## Technologies
 
