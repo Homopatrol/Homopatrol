@@ -8,10 +8,10 @@
 
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/dmu.gif" width="30px"> I’m currently working towards a **BSc** in Cyber Security 
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/cloud.gif" width="30px"> I’m currently using Openshift and Helm charts
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/1010.gif" width="30px"> I’m looking to collaborate on Security releated projects
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/computer.gif" width="30px"> I’m looking to collaborate on Security releated projects
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/flag.gif" width="30px"> Pronouns: any
-- :notes: When I'm not computer I'm play a different keyboard on my Organ 
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/weightlifter-cute.gif" width="30px"> I also enjoy competing in Strength sports 
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/keyboard.gif" width="30px"> When I'm not computer I'm play a different keyboard on my Organ 
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/kfkf.gif" width="30px"> I also enjoy competing in Strength sports 
                                         
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default) -->
                                                
