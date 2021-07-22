@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/wave.gif" width="30px"> Welcome to my Github ... are you lost?
+### <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/wave.gif" width="30px"> Welcome to my Github ... are you lost?
 
 <!-- ![alt text](https://{insert your image URL} “add your alt text”)  ![alt text](https://{insert your image URL} “add your alt text”) -->
 
@@ -6,12 +6,12 @@
 <a href="https://www.instagram.com/Homopatrol"><img src="https://img.shields.io/badge/-Homopatrol-00008b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="http://linkedin.com/in/pandora-holladay-b01a241a9"><img src="https://img.shields.io/badge/-Homopatrol-00008b?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/dmu.gif" width="30px"> I’m currently working towards a **BSc** in Cyber Security 
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/cloud.gif" width="30px"> I’m currently using Openshift and Helm charts
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/computer.gif" width="30px"> I’m looking to collaborate on Security releated projects
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/flag.gif" width="30px"> Pronouns: any
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/keyboard.gif" width="30px"> When I'm not computer I'm play a different keyboard on my Organ 
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/kfkf.gif" width="30px"> I also enjoy competing in Strength sports 
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/dmu.gif" width="30px"> I’m currently working towards a **BSc** in Cyber Security 
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/cloud.gif" width="30px"> I’m currently using Openshift and Helm charts
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/computer.gif" width="30px"> I’m looking to collaborate on Security releated projects
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/flag.gif" width="30px"> Pronouns: any
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/keyboard.gif" width="30px"> When I'm not computer I'm play a different keyboard on my Organ 
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/kfkf.gif" width="30px"> I also enjoy competing in Strength sports 
                                         
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default) -->
                                                
