@@ -10,11 +10,11 @@
 <a href="http://linkedin.com/in/pandora-holladay-b01a241a9"><img src="https://img.shields.io/badge/-Homopatrol-00008b?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/dmu.gif" width="30px"> I’m currently working towards a **BSc** in Cyber Security 
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/cloud.gif" width="30px"> I’m currently using Openshift and Helm charts
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/coding.gif" width="30px"> I’m currently using Openshift and Helm charts
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/computer.gif" width="30px"> I’m looking to collaborate on Security releated projects
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/flag.gif" width="30px"> Pronouns: any
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/keyboard.gif" width="30px"> When I'm not computer I'm play a different keyboard on my Organ 
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/kfkf.gif" width="30px"> I also enjoy competing in Strength sports 
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/gym.gif" width="30px"> I also enjoy competing in Strength sports 
                                         
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default) -->
                                                
