@@ -1,4 +1,6 @@
-### <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/wave.gif" width="30px"> Welcome to my Github ... are you lost?
+# <h1 align="center"> <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/wave.gif" width="30px"> Welcome to my Github ... are you lost? </h1>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Homopatrol&label=Profile%20views&color=0e75b6&style=flat" alt="davidkarlsen" /> </p>
 
 <!-- ![alt text](https://{insert your image URL} “add your alt text”)  ![alt text](https://{insert your image URL} “add your alt text”) -->
 
