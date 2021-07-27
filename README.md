@@ -18,7 +18,7 @@ Homopatrol birthed the idea of navigation though a computerised world - hence th
 ## About me
 
 <a href="https://www.instagram.com/Homopatrol"><img src="https://img.shields.io/badge/-Homopatrol-00008b?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="http://linkedin.com/in/pandora-holladay-b01a241a9"><img src="https://img.shields.io/badge/-Homopatrol-00008b?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="http://linkedin.com/in/pandora-holladay-b01a241a9"><img src="https://img.shields.io/badge/-Pandora_Holladay-00008b?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/dmu.gif" width="30px"> I’m currently working towards a **BSc** in Cyber Security 
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/coding.gif" width="30px"> I’m currently using Openshift and Helm charts
