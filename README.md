@@ -9,7 +9,7 @@
 
 ### My Name
 
-Just to clear up any confusion about my name. No it is not targeted at anyone of a different sexuality, in fact I myself am a member of the LGBTQ+ community.
+Just to clear up any confusion about my name. It is *not* targeted at anyone of a different sexuality, I myself am a member of the LGBTQ+ community.
 
 As a teen my friends and I used to be fans of the band Snow Patrol, we thought "Homopatrol" was a funny/cute nickname for my accounts and thus stayed part of my identity since.
 
