@@ -22,11 +22,11 @@ Homopatrol birthed the idea of navigation though a computerised world - hence th
 
 [https://www.buymeacoffee.com/pandorah](https://www.buymeacoffee.com/pandorah)
 
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/dmu.gif" width="30px"> I’m currently working towards a **BSc** in Cyber Security 
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/coding.gif" width="30px"> I’m currently using Openshift and Helm charts
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/computer.gif" width="30px"> I’m looking to collaborate on Security releated projects
+<!-- - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/dmu.gif" width="30px"> I’m currently working towards a **BSc** in Cyber Security  -->
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/coding.gif" width="30px"> I’m currently using Openshift.
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/computer.gif" width="30px"> I’m looking to collaborate on Security releated projects.
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/flag.gif" width="30px"> Pronouns: any
-- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/keyboard.gif" width="30px"> When I'm not computer I'm play a different keyboard on my Organ 
+- <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/keyboard.gif" width="30px"> When I'm not computer I'm play a different keyboard on my Organ! 
 - <img src="https://raw.githubusercontent.com/Homopatrol/Homopatrol/master/gif/gym.gif" width="30px"> I also enjoy Strength sports!
                                         
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=life&theme=tokyonight&animation=default&layout=samuel&font=default) -->
